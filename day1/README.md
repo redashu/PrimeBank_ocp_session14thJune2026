@@ -1,1 +1,7 @@
-# PrimeBank_ocp_session14thJune2026
+# vm vs container 
+
+<img src="vm1.png">
+
+### bare-metal to OCP 
+
+<img src="ocp1.png">
