@@ -21,3 +21,7 @@
 ### UPI Installer architecture 
 
 <img src="arch2.png">
+
+### OCP redhat lab env architecture 
+
+<img src="arch3.png">
