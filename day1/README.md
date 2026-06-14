@@ -25,3 +25,21 @@
 ### OCP redhat lab env architecture 
 
 <img src="arch3.png">
+
+## step to Install ocp cluster
+
+### step1 : Downloading Installer , oc cli details 
+
+<img src="install1.png">
+
+### STEP 2 : complete installer machine for any kind of installation 
+
+<img src="install2.png">
+
+### STEP 3 : prepare Infra Node / network / DNS / boot options  / DHCP 
+
+<img src="install3.png">
+
+### use of HA-proxy or F5 Lb during Installation 
+
+<img src="install4.png">
