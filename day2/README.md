@@ -1,1 +1,7 @@
-# PrimeBank_ocp_session14thJune2026
+# Revision 
+
+<img src="rev1.png">
+
+### Installer machine details 
+
+<img src="rev2.png">
