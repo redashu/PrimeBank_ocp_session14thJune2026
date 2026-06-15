@@ -21,3 +21,11 @@
 ### checking more details 
 
 <img src="login2.png">
+
+## ocp auth process using APIserver | oauth | CisCO ISE + LDAP 
+
+<img src="auth1.png">
+
+<img src="auth2.png">
+
+<img src="auth3.png">
