@@ -1,7 +1,23 @@
-# Revision 
+# Revision
 
-<img src="rev1.png">
+![Revision Screenshot](rev1.png)
 
-### Installer machine details 
+### Installer Machine Details
 
-<img src="rev2.png">
+![Installer Machine Details](rev2.png)
+
+## Using OpenShift Installer to Create
+
+- YAML file
+- Manifest files
+- IGN files
+
+![OpenShift Installer Output](install1.png)
+
+### LOgin to ocp using oc cli 
+
+<img src="login1.png">
+
+### checking more details 
+
+<img src="login2.png">
